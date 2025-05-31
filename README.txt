@@ -1,3 +1,5 @@
+Here's the link to the portfolio page: https://kienkong.github.io/KienNguyen.github.io/
+
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
