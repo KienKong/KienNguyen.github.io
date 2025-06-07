@@ -1,4 +1,4 @@
-Visit my portfolio at: [https://kienkong.github.io/KienNguyen.github.io/](https://kienkong.github.io/KienNguyen.github.io/)
+Visit my portfolio [HERE](https://kienkong.github.io/KienNguyen.github.io/)
 
 Prologue by HTML5 UP
 html5up.net | @ajlkn
