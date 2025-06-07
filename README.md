@@ -1,40 +1,44 @@
-# Kien Nguyen's Portfolio Website
-
 Visit my portfolio [HERE](https://kienkong.github.io/KienNguyen.github.io/)
 
-## 📝 About
-This is my personal portfolio website showcasing my projects and skills as a Frontend Developer. The site is built using HTML5, CSS3, and JavaScript.
 
-## 🚀 Features
-- Responsive design
-- Project showcase
-- About me section
-- Contact information
-- Interactive UI elements
+Credits to:
+Prologue by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome Icons
-- Google Fonts
 
-## 📦 Project Structure
-```
-PortfolioWeb/
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── pdf/
-│   └── webfonts/
-├── images/
-└── index.html
-```
+This is Prologue, a simple, single page responsive site template. It features a
+clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
 
-## 🔗 Connect With Me
-- GitHub: [@KienKong](https://github.com/KienKong)
-- LinkedIn: [Kien Nguyen](https://www.linkedin.com/in/kien-ng/)
-- Email: kien.nguyen0049@gmail.com
+Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
+more of her amazing work over at deviantART:
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details. 
+http://ineedchemicalx.deviantart.com/
+
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Felicia's work without her explicit permission!)
+
+Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
+images you can use for pretty much whatever.
+
+(* = Not included)
+
+AJ
+aj@lkn.io | @ajlkn
+
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+
+
+Credits:
+
+	Demo Images:
+		Felicia Simion (ineedchemicalx.deviantart.com)
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
